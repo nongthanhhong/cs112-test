@@ -4,4 +4,5 @@ print(" Tấn đẹp trai chẵng hạn")
 
 for i in range(3):
     print (i)
-    print ("loi ne con")
+    print ("loi ne con") # de loi conflic do
+    print ("ahihi")
